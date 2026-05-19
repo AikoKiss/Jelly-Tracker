@@ -2,6 +2,8 @@
 # Jelly-Tracker
 A smol-slime style tracker, with only the top end parts, NRF54L10 with ICM45686+QMC6309. Battery life are to be Tested.
 
+Thank you to Crylog for being an Absolute chad and unit of a PCB designer.
++ Mumo Tracker for the nice footprints and 3d files to make it easier to design the pcb.
 
 
 ## License
