@@ -1,20 +1,29 @@
+Limeneer Labs Personal Use License (LPL)
+
 Copyright © 2026 Limeneer Labs.
-All Rights Reserved.
 
-This repository and all contents included within it,
-including but not limited to PCB layouts, schematics,
-firmware, source code, binaries, CAD files, mechanical
-designs, documentation, and related assets are proprietary
-intellectual property of Limeneer Labs.
+Permission is granted to any individual to use, study,
+modify, and build this project strictly for personal,
+educational, and non-commercial purposes.
 
-No permission is granted to use, copy, modify, merge,
-publish, distribute, sublicense, manufacture, commercialize,
-or sell any portion of this project without explicit prior
-written permission from Limeneer Labs.
+You may:
+- Download and use the files
+- Modify the project for personal use
+- Build units for yourself
+- Share modifications with attribution
 
-Unauthorized reproduction, reverse engineering, or
-distribution of this project or derivative works is
-strictly prohibited.
+You may NOT:
+- Sell the project or derivative works
+- Manufacture units for commercial purposes
+- Use the project commercially
+- Rebrand or sublicense the project
+- Sell assembled hardware based on this design
+- Use Limeneer Labs branding without permission
 
-THE SOFTWARE AND HARDWARE ARE PROVIDED "AS IS",
-WITHOUT WARRANTY OF ANY KIND.
+This project is provided "AS IS", without warranty of
+any kind.
+
+Commercial licensing is available by contacting
+Limeneer Labs directly.
+
+© 2026 Limeneer Labs. All Rights Reserved.
