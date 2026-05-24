@@ -1,5 +1,5 @@
 ![License](https://img.shields.io/badge/license-Proprietary-red)
-# Jelly-Tracker
+# Puchi Tracker
 A smol-slime style tracker, with only the top end parts, NRF54L10 with ICM45686+QMC6309. Battery life are to be Tested.
 
 Thank you to Crylog for being an Absolute chad and unit of a PCB designer.
