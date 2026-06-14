@@ -1,0 +1,9 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Mumo Symbols") (type "KiCad") (uri "${KIPRJMOD}/Mumo Data/Mumo Symbols.kicad_sym") (options "") (descr ""))
+	(lib (name "GSB1C4621DS1HR") (type "KiCad") (uri "${KIPRJMOD}/lib/GSB1C4621DS1HR.kicad_sym") (options "") (descr ""))
+	(lib (name "nRF54L") (type "KiCad") (uri "${KIPRJMOD}/lib/nRF54L.kicad_sym") (options "") (descr ""))
+	(lib (name "lcsc") (type "KiCad") (uri "${KIPRJMOD}/lib/lcsc.kicad_sym") (options "") (descr ""))
+	(lib (name "NRF54L15-QFAA-R") (type "KiCad") (uri "${KIPRJMOD}/lib/NRF54L15-QFAA-R.kicad_sym") (options "") (descr ""))
+	(lib (name "easyeda2kicad") (type "KiCad") (uri "${KIPRJMOD}/lib/easyeda2kicad.kicad_sym") (options "") (descr ""))
+)
